@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B0000&center=true&vCenter=true&width=600&lines=root%40k1m0%3A~%23+whoami;security+researcher+%2F%2F+student;curiosity+first.+ethics+always." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=connection+established...;identity%3A+unresolved;%2F%2F+seeking+what+others+missed" alt="Typing SVG" />
 
 </div>
 
@@ -11,13 +11,16 @@
 <td>
 
 ```
-> id
-uid=0(kimo) gid=0(curious) groups=security,devsecops,builder
+> whoami
+r0guekimo
 
-> status
-[+] Cybersecurity student — still learning, still hands-on
-[+] Not a professional yet — every repo here is a step, not a finished product
-[+] Driven by impact: find what's broken before someone worse does
+> last_seen
+unknown
+
+> motive
+[+] find it before they do
+[+] say nothing until it's confirmed
+[+] leave no trace that isn't intentional
 ```
 
 </td>
@@ -26,17 +29,13 @@ uid=0(kimo) gid=0(curious) groups=security,devsecops,builder
 
 <br>
 
-### `// currently`
+<div align="center">
 
-- 🩻 Maintaining **[voidscope](https://github.com/r0guekimo/voidscope)** — my recon and bug bounty methodology, the actual commands and workflow I use during testing
-- 🎯 Building **Secure-by-Design CI/CD** — a self-hosted pipeline with SAST, secret scanning, and a full SOC stack (TheHive, Cortex, MISP, ELK) wired to auto-alert on failures
-- 🩸 Practicing offensive security — buffer overflows, exploitation labs, occasional CTFs
-- 🔍 Hunting bugs as a beginner — early-stage, learning the real-world ambiguity that labs don't teach
-- 🛡️ Defensive side too — Wazuh SIEM, Snort IDS, MITRE CALDERA attack simulation
+###### `silence is a strategy.`
+
+</div>
 
 <br>
-
-### `// stack`
 
 <div align="center">
 
@@ -44,19 +43,8 @@ uid=0(kimo) gid=0(curious) groups=security,devsecops,builder
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=8B0000)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8B0000)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8B0000)
-![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=8B0000)
-![Elastic](https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elasticsearch&logoColor=8B0000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=8B0000)
 
 </div>
-
-<br>
-
-### `// note`
-
-> I'm a student, not a professional — yet. Everything in this profile is real hands-on work
-> (labs, internship, personal projects), not production-grade software. If something looks
-> rough, it's because I built it to learn, not to impress. That's the point.
 
 <br>
 
