@@ -12,7 +12,7 @@ i've always been curious about what's happening behind the scenes. that curiosit
 
 i'm particularly drawn to offensive security — penetration testing, vulnerability research, exploitation, and web application security. i enjoy looking at systems from an attacker's perspective, finding weaknesses, understanding why they exist, and figuring out how they can be exploited.
 
-most of my learning happens hands-on through Hack The Box, TryHackMe, CTFs, personal experiments, and projects. i like getting my hands dirty, making mistakes, troubleshooting, and understanding the techniques behind the tools rather than just learning which commands to run.
+most of my learning happens hands-on through LABs, CTFs, personal experiments, and projects. i like getting my hands dirty, making mistakes, troubleshooting, and understanding the techniques behind the tools rather than just learning which commands to run.
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2400&pause=900&color=B32636&center=true&vCenter=true&width=850&height=45&lines=penetration+testing;web+application+security;vulnerability+research;exploit+development" alt="Offensive security interests" />
