@@ -8,39 +8,33 @@
 
 hey, i'm r0guekimo.
 
-i've always been the kind of person who gets curious about how things work, and that curiosity eventually led me down the cybersecurity rabbit hole. the more i learn, the more interesting things get. there's always another vulnerability to investigate, another technique to understand, or some unexpected behaviour that makes you wonder what's happening behind the scenes.
+i've always been curious about what's happening behind the scenes. that curiosity eventually pulled me into cybersecurity, where there's always something new to investigate, something unexpected to figure out, or another rabbit hole to disappear into.
 
-i'm especially into offensive security. penetration testing, vulnerability research, exploitation, web application security, and pretty much anything that involves looking at a system from the attacker's perspective. i enjoy the process of going from finding something unusual to understanding why it happens, figuring out how it can be exploited, and exploring what can be done with it.
+i'm particularly drawn to offensive security — penetration testing, vulnerability research, exploitation, and web application security. i enjoy looking at systems from an attacker's perspective, finding weaknesses, understanding why they exist, and figuring out how they can be exploited.
+
+most of my learning happens hands-on through Hack The Box, TryHackMe, CTFs, personal experiments, and projects. i like getting my hands dirty, making mistakes, troubleshooting, and understanding the techniques behind the tools rather than just learning which commands to run.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2400&pause=900&color=B32636&center=true&vCenter=true&width=850&height=45&lines=penetration+testing;web+application+security;vulnerability+research;exploit+development;offensive+security+labs" alt="Offensive security interests" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2400&pause=900&color=B32636&center=true&vCenter=true&width=850&height=45&lines=penetration+testing;web+application+security;vulnerability+research;exploit+development" alt="Offensive security interests" />
 </div>
 
-most of my experience comes from learning by doing. labs, CTF challenges, personal experiments, and projects that usually start with a simple question and somehow turn into hours of research. i like getting my hands dirty, making mistakes, troubleshooting, and eventually getting things to work.
-
-i'm still building my skills and pushing further into the field, with the goal of becoming a penetration tester and eventually taking on more advanced offensive security challenges. there's a lot i haven't explored yet, and that's probably one of the things i enjoy most about this field.
+i'm working towards becoming a penetration tester, with plenty of room to explore more advanced areas of offensive security along the way. there's still a lot to learn, and that's exactly what makes it interesting.
 
 <br>
 
 ## `$ interests --explore`
 
-cybersecurity isn't the only rabbit hole i find interesting.
-
-i have a particular interest in cryptography and blockchain, especially the algorithms, mathematical concepts, and mechanisms that make them work. i find it fascinating how much security can depend on the underlying mathematics, and how a small implementation mistake can undermine something that looks incredibly sophisticated on paper.
+outside offensive security, i'm particularly interested in cryptography and blockchain — especially the algorithms, mathematics, and mechanisms behind them. there's something fascinating about how mathematical concepts translate into real-world security, and how a tiny implementation flaw can break an otherwise sophisticated system.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=700&color=B68A52&center=true&vCenter=true&width=850&height=50&lines=0x7f3a91c8e2b54d06a9f1c3e8;d4e82a6f19b73c05e1a94f62;0x9c4f2e7a81d6b305f8a2c149;SHA256%3A+8f14e45fceea167a5a36dedd4bea2543" alt="Cryptographic data stream" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=700&color=B68A52&center=true&vCenter=true&width=850&height=50&lines=0x7f3a91c8e2b54d06a9f1c3e8;d4e82a6f19b73c05e1a94f62;0x9c4f2e7a81d6b305f8a2c149" alt="Cryptographic data stream" />
 </div>
 
-another area i'm interested in is AI security. LLMs, prompt injection, insecure AI integrations, and the different ways AI-powered applications can be manipulated or exploited. it's a relatively new space with plenty of interesting problems to explore, and i'd like to get more hands-on with it.
+another rabbit hole is AI security. LLM vulnerabilities, prompt injection, insecure integrations, and the different ways AI-powered applications can be attacked. it's an interesting space, and one i'd like to explore more deeply.
 
-i also enjoy programming, automation, and building small tools whenever i come across something i'd rather understand or solve myself. sometimes it's a useful project, sometimes it's just an experiment. either way, there's usually something new to learn from it.
+i also enjoy programming, automation, and building small tools whenever an idea or problem gives me a reason to. i'm not particularly interested in collecting certificates just for the sake of it — i'd rather understand the underlying concepts, experiment, and build something with what i've learned.
 
-i'm not particularly interested in collecting certificates just for the sake of having them. i'd rather understand the underlying concepts, know why something works, and be able to reproduce it without blindly following a tutorial.
-
-still exploring, still building, and probably spending too much time going down technical rabbit holes.
-
-there's always something interesting to break, build, or figure out.
+still exploring, still experimenting, and always looking for the next interesting thing to figure out.
 
 <br>
 
